@@ -51,9 +51,6 @@ solution_engineer_project/
 ├── README.md             # Project documentation
 └── Technical_Report.md   # Technical report
 
-
----
-
 ## ⚙️ Setup and Execution
 
 ### ✅ Prerequisites
