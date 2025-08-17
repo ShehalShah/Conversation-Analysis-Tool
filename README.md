@@ -39,7 +39,7 @@ It evaluates **compliance, professionalism, and call quality metrics** using bot
 
 ## 📂 Project Structure
 
-
+```
 solution_engineer_project/
 │
 ├── app.py                # Main Streamlit application
@@ -50,6 +50,7 @@ solution_engineer_project/
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 └── Technical_Report.md   # Technical report
+```
 
 ## ⚙️ Setup and Execution
 
